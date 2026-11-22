@@ -1,0 +1,13 @@
+entry.png
+entry_v*.png
+entry_v6_backup.png
+compare_*.png
+map_zoom_v9.png
+crop_*.png
+build_image_v1.py
+build_image_v2.py
+build_image_v3.py
+build_image_v4.py
+assets/illustrations/
+assets/photos/
+refs/
